@@ -39,8 +39,8 @@ Here’s a clean, professional, and **beautiful README** for your **Meal Nutriti
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/meal-nutrition-analyzer.git
-cd meal-nutrition-analyzer
+git clone https://github.com/spynom/smart-AI-based-calories-calculator.git
+cd smart-AI-based-calories-calculator
 ```
 
 ### 2. Create a Virtual Environment
